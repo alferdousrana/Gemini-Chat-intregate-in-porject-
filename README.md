@@ -8,8 +8,8 @@ This project integrates Google's **Gemini Pro API** into a web-based application
 * **Modern UI:** A minimalist and responsive design for optimal user experience.
 
 ## 🛠️ Tech Stack
-* **Backend:** Python / Django (or your preferred framework)
-* **AI Model:** Google Gemini 1.5 Flash / Pro
+* **Backend:** Python- Django
+* **AI Model:** Google Gemini 2.5 Flash
 * **Frontend:** HTML5, CSS3, JavaScript
 
 ## 📦 Installation & Setup
